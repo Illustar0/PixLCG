@@ -1,0 +1,10 @@
+{
+    "Pixiv": [
+        "https://cdn.jsdelivr.net/gh/XCwosjw/PixLCG@0.0.1/conf/pixiv.conf",
+        "https://raw.githubusercontent.com/XCwosjw/PixLCG/main/conf/pixiv.conf"
+    ],
+    "MediBang Paint": [
+"https://cdn.jsdelivr.net/gh/XCwosjw/PixLCG@0.0.1/conf/medibangpaint.conf",
+"https://raw.githubusercontent.com/XCwosjw/PixLCG/main/conf/medibangpaint.conf"
+    ]
+}
